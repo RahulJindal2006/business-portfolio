@@ -9,17 +9,17 @@ const AboutPage = () => {
         requireDarkRoom={true}
         panelContent={{
           title: "ABOUT ME",
-          quote: "Software Engineer in the Making | CS & BBA at Wilfrid Laurier University",
+          quote: "Future Business Leader | BBA & CS at Wilfrid Laurier University",
           content: [
-            "My journey into technology began at a very young age. I was born in India and immigrated to Canada, where I was always fascinated by how things worked and intrigued by technology. Throughout elementary and middle school, I found myself curious about computers and coding, but never had the right opportunities to fully explore this passion.",
+            "My journey into business began at a young age. I was born in India and immigrated to Canada, where I grew up watching my parents dedicate themselves to building their own business during the challenges of COVID 19. Seeing the hard work they put in to go from nothing to something, leaving their previous jobs to follow their vision, inspired me to explore the world of business and problem solving.",
             
-            "It wasn't until high school that I discovered my path. I enrolled in computer science classes and joined the computer science club, where I quickly realized that coding wasn't just a hobby, it was something I wanted to dedicate myself to. My passion, dedication, and hard work eventually led me to become the president of the computer science club during Grade 11, a role that allowed me to lead projects, mentor peers, and deepen my understanding of software development.",
+            "It was not until high school that I found my path more clearly. I got involved in business related activities, including case competitions and leadership programs, and quickly realized that business strategy and critical thinking were not just academic exercises they were something I genuinely wanted to pursue. My dedication and hard work led me to excel in multiple competitions, including the PC Health Live Case Competition (Semi Finals), LazICC x TD (Finals 4th), BDO Future Leaders Challenge, Embrace The Case (3rd), and Jean Hackathon (Top 5). I also maintained academic excellence as Valedictorian, a four year Honors Roll student, and an Ontario Scholar Award recipient.",
             
-            "Choosing to pursue Computer Science and Business Administration at Wilfrid Laurier University felt like the perfect fit. The program aligned with my interests in technology and problem-solving, while also giving me the opportunity to develop critical business skills. Since joining Laurier, I have worked on multiple projects including a Sudoku solver, a weather application, a miniature Crossy Road portfolio park gallery, and a Connect 4 bot, each project helping me sharpen my coding and analytical skills.",
+            "Choosing to study Business Administration and Computer Science at Wilfrid Laurier University felt like the perfect fit. The program allows me to combine my passion for technology with my interest in business, developing both analytical and strategic skills. Since joining Laurier, I have applied my business knowledge through projects and competitions, sharpening my skills in research, strategy, problem solving, and teamwork.",
             
-            "Beyond coding, I enjoy exploring other creative and active pursuits. I play the guitar and ukulele, paint various sceneries, and stay active through swimming, jogging, gym workouts, and recreational sports like badminton, table tennis, tennis, and soccer. These hobbies help me maintain balance, spark creativity, and continuously push myself both mentally and physically.",
+            "Outside of academics and competitions, I enjoy creative and active pursuits. I play the guitar and ukulele, paint different sceneries, and stay active through swimming, jogging, gym workouts, and recreational sports like badminton, table tennis, tennis, and soccer. These hobbies help me maintain balance, spark creativity, and strengthen my leadership and discipline.",
             
-            "I am driven by a lifelong curiosity, a love for problem solving, and a desire to create solutions that can have a meaningful impact. My goal is to continue growing as a software engineer, contributing to innovative projects, and sharing knowledge with others along the way."
+            "I am driven by a lifelong curiosity, a love for problem solving, and a desire to create solutions that can make a meaningful impact. My goal is to continue growing as a business leader, contributing to innovative projects, competing in case competitions, and learning from mentors along the way."
         ],
         }}
         imageSrc={"/images/about.webp"}
