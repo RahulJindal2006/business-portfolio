@@ -45,23 +45,27 @@ const DesignWorkPage = () => {
           title: "WORK EXPERIENCE | GET IN TOUCH",
           quote: (
             <span style={{ color: "#3b3332" }}>
-              My journey so far and an open door to collaborate.
+              My journey so far and an open invitation to connect, collaborate, and drive meaningful business impact.
             </span>
           ),
           content: [
             <p>
               May 2025 - Aug 2025<br />
-              <strong>X-Axis Solutions - Product Manager & Software Engineer Intern:</strong> Developed responsive, user-friendly websites using React.js, HTML, and CSS, improving user engagement and functionality for client platforms. Integrated 3 external APIs and collaborated with a 4-member cross-functional team to deliver 3 user-focused software features in a 6-week sprint, while troubleshooting bugs to ensure seamless functionality for 100+ users.
+              <strong>X-Axis Solutions - Project Manager Intern:</strong> Managed and coordinated a 4-member cross-functional team to successfully deliver 3 client-focused software features within a 6-week timeslot. Improved project efficiency by setting up task tracking and monitoring progress, resolving workflow bottlenecks, and ensuring timely delivery for over 100+ customers. Worked closely with stakeholders to define requirements, prioritize tasks, and maintain clear communication throughout the project.
+            </p>,
+
+            <p>
+              Feb 2022 - Aug 2025<br />
+              <strong>Jindal Immigration Inc - Business Analyst Intern:</strong> During the internship, business process data was collected and analyzed to identify bottlenecks, reducing report preparation time significantly and improving workflow efficiency. Dashboards and reports were created to track key performance indicators, increasing the accuracy and timeliness of KPI reporting by 15%. Cross-functional teams were supported with actionable recommendations for process improvements, enabling faster decision-making and greater adoption of suggested solutions across multiple groups.
+            </p>,
+
+            <p>
+              CS RELATED EXPERIENCE<br />
             </p>,
 
             <p>
               May 2024 - Aug 2024<br />
               <strong>AK Web Solutions - Web Developer:</strong> Built and maintained dynamic web pages using React.js and Vite, delivering responsive, high-performance client websites. Improved website functionality and user experience while ensuring maintainable, scalable code.
-            </p>,
-
-            <p>
-              Feb 2022 - Aug 2025<br />
-              <strong>Jindal Immigration Inc - Entry Level Developer & Business Assistant:</strong> Resolved 15 front-end bugs and enhanced website design, increasing code quality by 18%. Optimized navigation and business workflows, resulting in a 14% boost in user engagement and a 10% improvement in conversion rates, while implementing scalable technical solutions aligned with business objectives.
             </p>,
 
             <p>
