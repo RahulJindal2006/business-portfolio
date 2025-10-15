@@ -45,7 +45,7 @@ const DesignWorkPage = () => {
           title: "WORK EXPERIENCE | GET IN TOUCH",
           quote: (
             <span style={{ color: "#3b3332" }}>
-              My journey so far and an open invitation to connect, collaborate, and drive meaningful business impact.
+              My journey so far and an open invitation to drive meaningful business impact.
             </span>
           ),
           content: [
