@@ -1,0 +1,47 @@
+.toggle-button {
+  position: fixed;
+  bottom: 57px;
+  right: 48px;
+  z-index: 40;
+  cursor: pointer;
+
+  width: 72px;
+  border: none;
+  outline: none;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: transparent;
+  transition: background-color 0.4s, color 0.4s, border 0.4s, transform 0.2s, box-shadow 0.3s;
+  border: 1px solid white;
+  padding: 6px 20px;
+  color: white;
+  border-radius: 12px; // rounded corners
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3); // subtle shadow
+
+  @media (max-width: 768px) {
+    bottom: 50px;
+    right: 32px;
+  }
+
+  &:hover {
+    cursor: pointer;
+    color: #060606;
+    background-color: white;
+    transform: scale(1.1); // slight grow effect
+    box-shadow: 0 6px 15px rgba(0, 0, 0, 0.5); // stronger shadow on hover
+  }
+
+  &.light {
+    color: #060606;
+    border: 1px solid #060606;
+    background-color: transparent;
+
+    &:hover {
+      color: white;
+      background-color: #080808;
+      transform: scale(1.1);
+      box-shadow: 0 6px 15px rgba(0, 0, 0, 0.5);
+    }
+  }
+}
